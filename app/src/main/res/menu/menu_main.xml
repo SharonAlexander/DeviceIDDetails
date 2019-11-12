@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sharon.deviceiddetails.MainActivity">
+    <item
+        android:id="@+id/checkotherapps"
+        android:orderInCategory="100"
+        android:title="Checkout Other Apps"
+        app:showAsAction="never" />
+</menu>
